@@ -1,0 +1,29 @@
+# UTF-8
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'040904B0',
+        [StringStruct(u'CompanyName', u'XYZ Glickko'),
+        StringStruct(u'FileDescription', u'XYZ Dubbing Studio'),
+        StringStruct(u'FileVersion', u'1.0.0.0'),
+        StringStruct(u'InternalName', u'XYZ_Dubbing_Studio'),
+        StringStruct(u'LegalCopyright', u'© XYZ IGLickko. All rights reserved.'),
+        StringStruct(u'OriginalFilename', u'XYZ_Dubbing_Studio.exe'),
+        StringStruct(u'ProductName', u'XYZ Dubbing Studio'),
+        StringStruct(u'ProductVersion', u'1.0.0.0')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)
