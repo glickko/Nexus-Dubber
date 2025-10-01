@@ -9,8 +9,9 @@ XYZ Dubbing Studio is a flagship application from the **XYZ Project**, my self p
 </p>
 
 ## Core Features
-
+*   **Hotkey:** Press `R` for Record, and Press `R` again for Stop.
 *   **Professional Glass Pane UI:** A beautiful, modern interface that floats on your desktop.
+*   **Anime Themes:** HoloLive Gawr Gura Color Scheme. 
 *   **Non-Destructive Workflow:** Record clean, raw audio segments. Review and approve the best takes without ever altering the original recordings.
 *   **Simple Project Management:** Organize your work into separate, self-contained project folders.
 *   **One-Click Versioned Merging:** Combine all your approved takes into a new, versioned `Final Mix #.wav` file with a single click. The original segments remain untouched.
